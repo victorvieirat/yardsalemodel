@@ -1,0 +1,2 @@
+# yardsalemodel
+Modelo computacional yardsale
